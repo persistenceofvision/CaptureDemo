@@ -6,3 +6,5 @@ The purpose of this repository is to demonstrate
 - organization skills
 - knowledge of programming best practices
 - knowledge of the Django Framework
+
+A truly experimental ReadMe file.
